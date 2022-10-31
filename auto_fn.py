@@ -19,7 +19,7 @@ def auto_factory(brand, max_speed):
 
 audi = auto_factory('AUDI', 180)
 mercedes = auto_factory('MERCEDES', 220)
-
+fiat = auto_factory('FIAT', 160)
 
 
 def start_engine(car):
